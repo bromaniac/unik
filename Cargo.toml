@@ -1,0 +1,11 @@
+[package]
+name = "unik"
+version = "0.1.0"
+edition = "2021"
+authors = ["Fredrik Broman <fredrik.broman@gmail.com>"]
+license = "UNLICENSE"
+readme = "README.md"
+repository = "github.com/bromaniac/unik"
+
+[dependencies]
+itertools = "0.10.3"
